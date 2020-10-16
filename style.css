@@ -1,0 +1,75 @@
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-body {
+    padding-top: 2rem;
+    padding-bottom: 6rem;
+    min-height: 400px;
+    max-height: fit-content;
+  }
+}
+
+.bg-dark{
+    background-color: #263238!important;
+}
+
+.text-muted{
+  color: #FFFFFF!important;
+}
+
+.sub-text{
+  color: #263238!important;
+}
+
+.col-md-4{
+  margin: 0 auto;
+}
+
+.jumbotron{
+  background: url(https://www.infnet.edu.br/esti/wp-content/uploads/sites/5/2017/03/BG-Diferenciais-UX.jpg);
+  border-radius: 0  0 .3rem .3rem;
+}
+
+.jumbotron h1 {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.jumbotron .container-header{
+  margin: -30px;
+  padding: 40px;
+  background-color: #ffffff; 
+  border: 1px solid #263238; 
+  opacity: 0.6;
+  /* border-radius: 10px; */
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+
+
+
+
+
